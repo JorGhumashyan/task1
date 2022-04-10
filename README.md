@@ -4,6 +4,7 @@ Achivements:
    Basketball first place on our country
    Taked TOEFL and SAT exams
    Other:
-     Very cleaver
+     Very clever
      Quick learner
      Very modern
+     Logical thinker 
