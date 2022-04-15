@@ -1,0 +1,133 @@
+hr {
+    outline: black 10px;
+}
+
+.conteiner {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+
+
+}
+
+body {
+    padding: 0px 100px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+
+}
+
+.opp1 {
+    opacity: 0.5;
+}
+
+.text1 {
+    color: grey;
+}
+
+
+
+.content2 {
+    margin-top: 125px;
+    margin-left: 50px;
+    font-size: small;
+
+}
+
+
+.content3 {
+    margin-top: 125px;
+    margin-left: 50px;
+    font-size: small;
+}
+
+
+.content4 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0px;
+    margin-left: 50px;
+    width: 125px;
+    height: 20px;
+}
+
+
+.conteiner2 {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    margin-left: 120px;
+}
+
+
+.opp2 {
+    color: grey;
+
+
+}
+
+.head1 {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    margin-right: 899px;
+    margin-left: 50px;
+}
+
+.enta {
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 20px;
+    margin-left: 1000px;
+    margin-top: -40px;
+    color: rgb(135, 135, 135);
+}
+
+
+.conteiner3 {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    margin-left: 125px;
+}
+
+.head2 {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    margin-left: 125px;
+}
+
+
+/* not jora & sepehr */
+
+.container {
+    padding: 10px 0px;
+
+
+}
+
+.head1 {
+    margin: 0;
+}
+
+.details {
+    flex-grow: 1;
+}
+
+.year {
+    color: rgb(135, 135, 135);
+}
+
+.heading {
+    width: 10%;
+}
+
+.sub-container {
+    display: flex;
+    gap: 20px;
+}
